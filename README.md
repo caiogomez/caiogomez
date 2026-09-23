@@ -1,1 +1,1 @@
-## Caio
+Estudante de ADS focado em desenvolvimento Full Stack. Estou construindo minha base em front-end, back-end, APIs REST, bancos de dados SQL e Git/GitHub, aplicando esses conhecimentos em projetos práticos. Meu objetivo é desenvolver aplicações completas, entender cada etapa do processo e evoluir constantemente como desenvolvedor.
